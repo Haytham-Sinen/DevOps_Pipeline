@@ -13,6 +13,7 @@
            class="img-responsive center-block" style={{width: 300px}}/>
       <h1 class="text-center">My Web Server deployment is done with jenkins</h1>
       <h2 class="text-center">This project is auto-deployed by SCM Webhook trigger with tek-up and using webhook relay tunneling </h2>
-  </div>
+      <h1 class="text-center"> Testing if pipeline works </h1> 
+ </div>
 </body>
 </html>
